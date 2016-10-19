@@ -10,6 +10,7 @@ This has been created using the basic concepts of HTML&CSS.
 
 Overall, this is a demo of responsive webpage based on given PSD.
 
+NOTE: Download the WEB Folder as it is and Do Not move any file from it.
 
 
 HTML Filename -> index.html
